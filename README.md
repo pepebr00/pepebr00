@@ -8,6 +8,8 @@
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
 
 ---
 
@@ -41,6 +43,7 @@ Projeto de robótica onde desenvolvi um robô que mantém o equilíbrio de um ba
 
 ### ⚙️ Automação em Sistemas Hidrelétricos  
 Projeto acadêmico simulando o controle automatizado de turbinas e comportas, com foco em eficiência energética e segurança.
+(https://drive.google.com/file/d/11rdxUtR5LdcqqwAX-DajxwswUYtk7EWQ/view?usp=drive_link)
 
 ---
 
