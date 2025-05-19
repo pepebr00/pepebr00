@@ -1,4 +1,4 @@
-# Olá, eu sou o [Seu Nome] 👋✨  
+# Olá, eu sou o Pedro Bueno 👋✨  
 ### Estudante de Engenharia | Foco em Python, Web e Automação
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -10,7 +10,7 @@
 
 ## Sobre mim  
 
-Sou apaixonado por tecnologia e inovação! Atualmente estou cursando **Engenharia de Controle e Automação** e aprofundando meus conhecimentos em **desenvolvimento web com Python** através de projetos práticos do curso da Udemy.
+Sou apaixonado por tecnologia e inovação! Atualmente estou cursando **Engenharia de Controle e Automação** e aprofundando meus conhecimentos em **desenvolvimento web com Python** através de projetos práticos do curso da Udemy. Além disso, pretendo me aprofundar mais nos conceitos da Análise de dados e na Inteligência artificial, e como aplicá-la ainda mais em nosso ambiente pessoal e profissional.
 
 ---
 
@@ -18,11 +18,9 @@ Sou apaixonado por tecnologia e inovação! Atualmente estou cursando **Engenhar
 
 ### ✅ Calculadora Web  
 Uma calculadora funcional com **Python**, **HTML** e **CSS**.  
-[Veja o projeto aqui](link-do-repositório-ou-demostração)
 
 ### 🚧 Agenda de Contatos (em desenvolvimento)  
 CRUD completo para gerenciamento de contatos com interface web.  
-Em breve disponível online!
 
 ---
 
@@ -30,14 +28,15 @@ Em breve disponível online!
 
 - **Python**: automações, lógica e backend
 - **HTML + CSS**: estrutura e estilo de páginas
-- **Flask** (em progresso): criação de aplicações web
 
 ---
 
 ## Me encontre por aí  
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-usuario)  
+https://www.linkedin.com/in/pedro-dur%C3%A3es-bueno-a537a0230/
 [![Gmail](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:seuemail@exemplo.com)
+duraesbuenopedro@gmail.com
 
 ---
 
