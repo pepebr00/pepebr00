@@ -21,7 +21,7 @@ Sou estudante de **Engenharia de Controle e Automação**, apaixonado por tecnol
 
 ## Conhecimentos acadêmicos
 
-- **Python** – Desenvolvimento web e lógica de programação
+- **Python + Django** – Desenvolvimento web e lógica de programação
 - **HTML + CSS** – Criação de interfaces para aplicações web
 - **C, C++ e C#** – Aprendidos em disciplinas voltadas à **programação de microcontroladores e lógica estruturada**
 - **SQL** – Aplicado em matérias de **banco de dados relacionais**, com foco em modelagem e consultas
@@ -32,18 +32,19 @@ Sou estudante de **Engenharia de Controle e Automação**, apaixonado por tecnol
 
 ## Projetos em destaque  
 
+### ⚙️ Automação em Sistemas Hidrelétricos  
+Projeto acadêmico simulando o controle automatizado de turbinas e comportas, com foco em eficiência energética e segurança.
+https://drive.google.com/file/d/11rdxUtR5LdcqqwAX-DajxwswUYtk7EWQ/view?usp=drive_link
+
+### 🤖 Robô Balão  
+Projeto de robótica onde desenvolvi um robô para disputa de estourar balões usando sensores, programação e controle automatizado.
+
 ### ✅ Calculadora Web  
 Uma calculadora funcional feita com **Python**, **HTML** e **CSS**.  
 
-### 🚧 Agenda de Contatos (em desenvolvimento)  
-Aplicação CRUD para gerenciar contatos, com backend em Python e interface web.  
-
-### 🤖 Robô Balão  
-Projeto de robótica onde desenvolvi um robô que mantém o equilíbrio de um balão usando sensores e controle automatizado.
-
-### ⚙️ Automação em Sistemas Hidrelétricos  
-Projeto acadêmico simulando o controle automatizado de turbinas e comportas, com foco em eficiência energética e segurança.
-(https://drive.google.com/file/d/11rdxUtR5LdcqqwAX-DajxwswUYtk7EWQ/view?usp=drive_link)
+### 🚧 Agenda de Contatos  
+Aplicação CRUD para gerenciar contatos, com backend em Python e interface web Django.
+https://github.com/pepebr00/Curso_Python/tree/main/agenda_contatos
 
 ---
 
