@@ -15,7 +15,7 @@
 
 ## Sobre mim  
 
-Sou estudante de **Engenharia de Controle e Automação**, apaixonado por tecnologia e desenvolvimento de soluções criativas. Tenho interesse especial por **programação, automação de processos, análise de dados e sistemas embarcados, inteligência artificial e machine learning**.
+Sou estudante de **Engenharia de Controle e Automação**, apaixonado por tecnologia e desenvolvimento de soluções criativas. Tenho interesse especial por **programação, automação de processos, análise de dados, sistemas embarcados, inteligência artificial e machine learning**.
 
 ---
 
