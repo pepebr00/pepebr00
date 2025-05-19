@@ -38,9 +38,11 @@ https://drive.google.com/file/d/11rdxUtR5LdcqqwAX-DajxwswUYtk7EWQ/view?usp=drive
 
 ### 🤖 Robô Balão  
 Projeto de robótica onde desenvolvi um robô para disputa de estourar balões usando sensores, programação e controle automatizado.
+https://drive.google.com/file/d/17AEl5M10Vi_9gTUob5PIcU3jXBGjqEFR/view?usp=sharing
 
 ### ✅ Calculadora Web  
 Uma calculadora funcional feita com **Python**, **HTML** e **CSS**.  
+https://github.com/pepebr00/Curso_Python/tree/main/calculadora
 
 ### 🚧 Agenda de Contatos  
 Aplicação CRUD para gerenciar contatos, com backend em Python e interface web Django.
