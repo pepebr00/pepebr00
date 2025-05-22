@@ -45,7 +45,7 @@ Uma calculadora funcional feita com **Python**, **HTML** e **CSS**.
 https://github.com/pepebr00/Curso_Python/tree/main/calculadora
 
 ### 📒 Agenda de Contatos  
-Aplicação CRUD para gerenciar contatos, com backend em Python e interface web Django.
+Aplicação online CRUD para gerenciar contatos, com backend em Python e interface web Django.
 https://github.com/pepebr00/Curso_Python/tree/main/agenda_contatos
 
 ---
