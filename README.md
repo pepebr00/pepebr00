@@ -21,7 +21,7 @@ Sou estudante de **Engenharia de Controle e Automação**, apaixonado por tecnol
 
 ## Conhecimentos acadêmicos
 
-- **Python + Django** – Desenvolvimento web e lógica de programação
+- **Python** – Desenvolvimento web e lógica de programação
 - **HTML + CSS** – Criação de interfaces para aplicações web
 - **C, C++ e C#** – Aprendidos em disciplinas voltadas à **programação de microcontroladores e lógica estruturada**
 - **SQL** – Aplicado em matérias de **banco de dados relacionais**, com foco em modelagem e consultas
