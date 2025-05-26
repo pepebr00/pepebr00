@@ -48,6 +48,11 @@ https://github.com/pepebr00/Curso_Python/tree/main/calculadora
 Aplicação online CRUD para gerenciar contatos, com backend em Python e interface web Django.
 https://github.com/pepebr00/Curso_Python/tree/main/agenda_contatos
 
+### ✍️ Blog com Django & Docker
+
+Plataforma web completa para criação e gerenciamento de posts, desenvolvida com Python e Django. Conta com suporte a comentários e é conteinerizada com Docker, garantindo ambiente consistente e deploy eficiente.
+https://github.com/pepebr00/Curso_Python/tree/main/projeto_blog
+
 ---
 
 ## Me encontre por aí  
