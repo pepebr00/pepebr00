@@ -63,7 +63,7 @@ https://www.linkedin.com/in/pedro-dur%C3%A3es-bueno-a537a0230/
 
 [![Gmail](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:seuemail@exemplo.com)
 
-duraesbuenopedro@gmail.com
+pedroduraesbueno@gmail.com
 
 ---
 
