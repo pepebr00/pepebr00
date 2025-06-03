@@ -34,7 +34,7 @@ Sou estudante de **Engenharia de Controle e Automação**, apaixonado por tecnol
 
 ### ⚙️ Automação em Sistemas Hidrelétricos  
 Projeto acadêmico simulando o controle automatizado de turbinas e comportas, com foco em eficiência energética e segurança.
-https://drive.google.com/file/d/11rdxUtR5LdcqqwAX-DajxwswUYtk7EWQ/view?usp=drive_link
+https://drive.google.com/file/d/12FDAXDxNDmC7rLH4sZlCjcWi-kkw1a99/view?usp=drivesdk
 
 ### 🤖 Robô Balão  
 Projeto de robótica onde desenvolvi um robô para disputa de estourar balões usando sensores, programação e controle automatizado.
