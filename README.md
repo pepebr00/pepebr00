@@ -1,4 +1,4 @@
- # Olá, eu sou o Pedro Bueno 👋✨  
+# Olá, eu sou o Pedro Bueno 👋✨  
 ### Estudante de Engenharia | Foco em Python, IA, Automação e Análise de Dados
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -52,6 +52,9 @@ https://github.com/pepebr00/Curso_Python/tree/main/agenda_contatos
 
 Plataforma web completa para criação e gerenciamento de posts, desenvolvida com Python e Django. Conta com suporte a comentários e é conteinerizada com Docker, garantindo ambiente consistente e deploy eficiente.
 https://github.com/pepebr00/Curso_Python/tree/main/projeto_blog
+
+### 🛒 E-commerce 
+Uma plataforma de e-commerce completa, que inclui a exibição de produtos, gerenciamento do carrinho de compras, etc. Utilizo Python com Django para o backend, e HTML e CSS para o frontend.
 
 ---
 
