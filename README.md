@@ -1,5 +1,5 @@
 # Olá, eu sou o Pedro Bueno 👋✨  
-### Estudante de Engenharia | Foco em Automação de Processos, Análise de Dados, Inteligência Artificial, e Engenharia.
+### Estudante de Engenharia | Foco em Automação de Processos, Análise de Dados, IA e Engenharia.
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
