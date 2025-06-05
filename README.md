@@ -9,6 +9,7 @@
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 
 ---
@@ -21,12 +22,12 @@ Sou estudante de **Engenharia de Controle e Automação**, apaixonado por tecnol
 
 ## Conhecimentos acadêmicos
 
-- **Python** – Desenvolvimento web e lógica de programação
-- **HTML + CSS** – Criação de interfaces para aplicações web
-- **C, C++ e C#** – Aprendidos em disciplinas voltadas à **programação de microcontroladores e lógica estruturada**
-- **SQL** – Aplicado em matérias de **banco de dados relacionais**, com foco em modelagem e consultas
 - **Automação industrial** – Experiência prática com sensores, atuadores e lógica de controle
-
+- **Python** – Desenvolvimento web e lógica de programação
+- **C, C++ e C#** – Aprendidos em disciplinas voltadas à programação de microcontroladores e lógica estruturada
+- **SQL** – Aplicado em matérias de banco de dados relacionais, com foco em modelagem e consultas
+- **JavaScript** – Desenvolvimento backend escalável.
+- **HTML + CSS** – Criação de interfaces para aplicações web
 
 ---
 
@@ -41,7 +42,7 @@ Projeto de robótica onde desenvolvi um robô para disputa de estourar balões u
 https://drive.google.com/file/d/17AEl5M10Vi_9gTUob5PIcU3jXBGjqEFR/view?usp=drive_link
 
 ### 📱 Calculadora Web  
-Uma calculadora funcional feita com **Python**, **HTML** e **CSS**.  
+Uma calculadora funcional feita com Python, HTML e CSS.  
 https://github.com/pepebr00/Curso_Python/tree/main/calculadora
 
 ### 📒 Agenda de Contatos  
@@ -49,7 +50,6 @@ Aplicação online CRUD para gerenciar contatos, com backend em Python e interfa
 https://github.com/pepebr00/Curso_Python/tree/main/agenda_contatos
 
 ### ✍️ Blog
-
 Plataforma web completa para criação e gerenciamento de posts, desenvolvida com Python e Django. Conta com suporte a comentários e é conteinerizada com Docker, garantindo ambiente consistente e deploy eficiente.
 https://github.com/pepebr00/Curso_Python/tree/main/projeto_blog
 
