@@ -54,7 +54,7 @@ Plataforma web completa para criação e gerenciamento de posts, desenvolvida co
 https://github.com/pepebr00/Curso_Python/tree/main/projeto_blog
 
 ### 🛒 E-commerce 
-Uma plataforma de e-commerce completa, que inclui a exibição de produtos, gerenciamento do carrinho de compras, etc. Utilizo Python com Django e JavaScript para o backend, e HTML e CSS para o frontend.                    
+Uma plataforma de e-commerce completa, que inclui a exibição de produtos, gerenciamento do carrinho de compras, etc. Utilizei Python com Django e JavaScript para o backend, e HTML e CSS para o frontend.                    
 https://github.com/pepebr00/Curso_Python/tree/main/e_commerce
 
 ---
