@@ -27,7 +27,7 @@ Sou estudante de **Engenharia de Controle e Automação**, apaixonado por tecnol
 - **C, C++ e C#** – Aprendidos em disciplinas voltadas à programação de microcontroladores e lógica estruturada
 - **SQL** – Aplicado em matérias de banco de dados relacionais, com foco em modelagem e consultas
 - **HTML + CSS** – Criação de interfaces para aplicações web
-- - **JavaScript** – Desenvolvimento backend escalável
+- **JavaScript** – Desenvolvimento backend escalável
 
 ---
 
